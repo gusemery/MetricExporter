@@ -1,0 +1,8 @@
+C:\Users\gus\source\repos\MetricExporter\MetricExporter\bin\Debug\netcoreapp2.2\MetricExporter.deps.json
+C:\Users\gus\source\repos\MetricExporter\MetricExporter\bin\Debug\netcoreapp2.2\MetricExporter.runtimeconfig.json
+C:\Users\gus\source\repos\MetricExporter\MetricExporter\bin\Debug\netcoreapp2.2\MetricExporter.runtimeconfig.dev.json
+C:\Users\gus\source\repos\MetricExporter\MetricExporter\bin\Debug\netcoreapp2.2\MetricExporter.dll
+C:\Users\gus\source\repos\MetricExporter\MetricExporter\obj\Debug\netcoreapp2.2\MetricExporter.csprojAssemblyReference.cache
+C:\Users\gus\source\repos\MetricExporter\MetricExporter\obj\Debug\netcoreapp2.2\MetricExporter.csproj.CoreCompileInputs.cache
+C:\Users\gus\source\repos\MetricExporter\MetricExporter\obj\Debug\netcoreapp2.2\MetricExporter.AssemblyInfoInputs.cache
+C:\Users\gus\source\repos\MetricExporter\MetricExporter\obj\Debug\netcoreapp2.2\MetricExporter.AssemblyInfo.cs

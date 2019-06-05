@@ -6,3 +6,6 @@ C:\Users\gus\source\repos\MetricExporter\MetricExporter\obj\Debug\netcoreapp2.2\
 C:\Users\gus\source\repos\MetricExporter\MetricExporter\obj\Debug\netcoreapp2.2\MetricExporter.csproj.CoreCompileInputs.cache
 C:\Users\gus\source\repos\MetricExporter\MetricExporter\obj\Debug\netcoreapp2.2\MetricExporter.AssemblyInfoInputs.cache
 C:\Users\gus\source\repos\MetricExporter\MetricExporter\obj\Debug\netcoreapp2.2\MetricExporter.AssemblyInfo.cs
+C:\Users\gus\source\repos\MetricExporter\MetricExporter\bin\Debug\netcoreapp2.2\MetricExporter.pdb
+C:\Users\gus\source\repos\MetricExporter\MetricExporter\obj\Debug\netcoreapp2.2\MetricExporter.dll
+C:\Users\gus\source\repos\MetricExporter\MetricExporter\obj\Debug\netcoreapp2.2\MetricExporter.pdb

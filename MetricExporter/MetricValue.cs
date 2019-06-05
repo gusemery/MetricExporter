@@ -9,19 +9,19 @@ namespace MetricExporter
     //<metricName>BTM|BTs|BT:605274|Component:19539|Average Response Time(ms)</metricName>
     //<metricPath>Business Transaction Performance|Business Transactions|SM-RemoteObjectServer|Device - Work Lookup|Average Response Time(ms)</metricPath>
     //<frequency>SIXTY_MIN</frequency>
-    
+    [JsonObject]
     public class MetricValue
     {
         #region Properties
-        [JsonProperty("metricId")]
+        [JsonPropertyAttribute("metricId")]
         public long MetricId { get; set; }
-        [JsonProperty("metricName")]
+        [JsonPropertyAttribute("metricName")]
         public string MetricName { get; set; }
-        [JsonProperty("metricPath")]
+        [JsonPropertyAttribute("metricPath")]
         public string MetricPath { get; set; }
-        [JsonProperty("frequency")]
+        [JsonPropertyAttribute("frequency")]
         public string Frequency { get; set; }
-        [JsonProperty("metricValues")]
+        [JsonPropertyAttribute("metricValues")]
         public List<Metrics> MetricValues {get;set;}
 
         #endregion

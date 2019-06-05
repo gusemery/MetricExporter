@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -19,7 +20,7 @@ namespace MetricExporter
     //    <standardDeviation>0</standardDeviation>
     //  </metric-value>
     //</metricValues>
-
+    [JsonObject]
     public class Metrics
     {
         public long startTimeInMillis { get; set; }

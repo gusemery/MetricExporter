@@ -9,3 +9,5 @@ C:\Users\gus\source\repos\MetricExporter\MetricExporter\obj\Debug\netcoreapp2.2\
 C:\Users\gus\source\repos\MetricExporter\MetricExporter\bin\Debug\netcoreapp2.2\MetricExporter.pdb
 C:\Users\gus\source\repos\MetricExporter\MetricExporter\obj\Debug\netcoreapp2.2\MetricExporter.dll
 C:\Users\gus\source\repos\MetricExporter\MetricExporter\obj\Debug\netcoreapp2.2\MetricExporter.pdb
+C:\Users\gus\source\repos\MetricExporter\MetricExporter\bin\Debug\netcoreapp2.2\App1.config
+C:\Users\gus\source\repos\MetricExporter\MetricExporter\bin\Debug\netcoreapp2.2\appSettings.json

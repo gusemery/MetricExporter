@@ -5,11 +5,11 @@ using Newtonsoft.Json;
 
 namespace MetricExporter
 {
-    [JsonArrayAttribute("metric-data")]
-    public class MetricData
-    {
-        
-        public IList<MetricValue> Metrics { get; set; }
+    //[JsonArray]
+    //public class MetricData
+    //{
+    //    [JsonPropertyAttribute("metric-data")]
+    //    public List<MetricValue> Metrics { get; set; }
 
-    }
+    //}
 }

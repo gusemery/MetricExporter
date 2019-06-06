@@ -20,18 +20,18 @@ namespace MetricExporter
     //    <standardDeviation>0</standardDeviation>
     //  </metric-value>
     //</metricValues>
-    [JsonObject]
-    public class Metrics
-    {
-        public long startTimeInMillis { get; set; }
-        public long occurances { get; set; }
-        public long current { get; set; }
-        public long min { get; set; }
-        public long max { get; set; }
-        public bool userRange { get; set; }
-        public long count { get; set; }
-        public long sum { get; set; }
-        public long value { get; set; }
-        public long standardDeviation { get; set; }
-    }
+    //[JsonObject]
+    //public class Metrics
+    //{
+    //    public long startTimeInMillis { get; set; }
+    //    public long occurances { get; set; }
+    //    public long current { get; set; }
+    //    public long min { get; set; }
+    //    public long max { get; set; }
+    //    public bool userRange { get; set; }
+    //    public long count { get; set; }
+    //    public long sum { get; set; }
+    //    public long value { get; set; }
+    //    public long standardDeviation { get; set; }
+    //}
 }

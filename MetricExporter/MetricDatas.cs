@@ -5,10 +5,11 @@ using System.Text;
 
 namespace MetricExporter
 {
-    public class MetricDatas
-    {
-        [JsonPropertyAttribute("metric-datas")]
-        public List<MetricData> MetricDataList {get;set;}
-    }
+    //[JsonArray]
+    //public class MetricDatas
+    //{
+    //    [JsonPropertyAttribute("metric-datas")]
+    //    public List<MetricData> MetricDataList {get;set;}
+    //}
 }
 //3eabe71fbc9493b2b21825ad04b7519d5a05aa14

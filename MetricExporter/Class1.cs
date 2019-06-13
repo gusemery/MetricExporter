@@ -6,7 +6,14 @@ using System.Text;
 
 namespace MetricExporter
 {
-    
+    public class Application
+    {
+        [JsonProperty("id")]
+        public int Id { get; set; }
+
+        [JsonProperty("name")]
+        public string Name { get; set; }
+    }
 
     public class MetricValue
     {
